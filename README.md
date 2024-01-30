@@ -3,7 +3,7 @@
 
 This project is based on a website for a company called Horiseon. 
 Horiseon deals in digital social solutions including search algorithms and marketing.
-The end goal is go fix any broken functionality and consolidate code. 
+The end goal is to fix any broken functionality and consolidate code. 
 
 Something about the "Scout method" <wink>
 

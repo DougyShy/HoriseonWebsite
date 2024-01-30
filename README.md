@@ -19,9 +19,10 @@ Something about the "Scout method" <wink>
 
 In this project we added/replaced semantic code in the HTML file as well as consolidated many CSS classes with similar properties and attributes.
 In this project we fixed broken links and added alt tags to images and icons for easier access.
-In this project we defined a repository and used it to display our website
-In this project we utilized Git and the ability to commit mutiple times to prevent errors and lost/confused code
+In this project we defined a repository and used it to display our website.
+In this project we utilized Git and the ability to commit multiple times to prevent errors and redundant code.
 
+Something about DRY
 
 ## Getting Started
 

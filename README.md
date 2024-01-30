@@ -1,5 +1,5 @@
 
-# Project Title 
+# Horiseon Website Update and Consolidation
 
 This project is based on a website for a company called Horiseon. 
 Horiseon deals in digital social solutions including search algorithms and marketing.

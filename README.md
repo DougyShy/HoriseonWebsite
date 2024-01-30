@@ -17,10 +17,10 @@ Use the Scout Method.
 
 ## About
 
-In this project we added/replaced semantic code in the HTML file as well as consolidated many CSS classes with similar properties and attributes (DRY).
-In this project we fixed broken links and added alt tags to images and icons for easier access.
-In this project we defined a repository and used it to display our website.
-In this project we utilized Git and the ability to commit multiple times to prevent errors and redundant code.
+ - In this project we added/replaced semantic code in the HTML file as well as consolidated many CSS classes with similar properties and attributes (DRY).
+ - In this project we fixed broken links and added alt tags to images and icons for easier access.
+ - In this project we defined a repository and used it to display our website.
+ - In this project we utilized Git and the ability to commit multiple times to prevent errors and redundant code.
 
 ## Getting Started
 
